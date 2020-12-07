@@ -1,4 +1,4 @@
-module cliente-servidor
+module server
 
 go 1.15
 
